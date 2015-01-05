@@ -1,4 +1,4 @@
-Mafarricos-kodi-demo-repo
+A Alterar no Futuro
 =========================
 
 Demonstration of a basic repository for kodi (To use as template)
